@@ -20,8 +20,12 @@ To run the project locally, Clone the repository:
 git clone https://github.com/Avicena12/PsyHealthWeb_WatsonIntegrated.git
 
 ## Documentation
+![image](https://github.com/Avicena12/PsyHealthWeb_WatsonIntegrated/assets/122277654/40e9b653-71aa-4a9c-851f-5e1ec7137810)
+![image](https://github.com/Avicena12/PsyHealthWeb_WatsonIntegrated/assets/122277654/4b414bdd-2e91-4b7a-88c5-affe97fedb14)
+![image](https://github.com/Avicena12/PsyHealthWeb_WatsonIntegrated/assets/122277654/6c9c9435-533b-46f1-a546-10bfd2fb1fe1)
+
 video demo:
-https://drive.google.com/file/d/1FgpkAC1MKbP26QZPI4ZN3yR5proTDZ5a/view?usp=sharing
+https://youtu.be/AF16bIE8k2Y
 
 demo site :
 https://psy-health-web-watson-integrated.vercel.app/
